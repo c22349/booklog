@@ -1,5 +1,4 @@
-# booklog
-<h1>読書ログ</h1>
+# 読書ログ
 <h2>概要</h2>
 <a href="https://docs.google.com/presentation/d/1nCyrgGkMScxDNyQri9ktVOVRAoiT35sWVQfvFqQPocw/edit?usp=sharing"
   target="_blank">読書ログの詳細（googleスライド）</a>
