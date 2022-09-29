@@ -1,7 +1,6 @@
 # 読書ログ
 <h2>概要</h2>
-<a href="https://docs.google.com/presentation/d/1nCyrgGkMScxDNyQri9ktVOVRAoiT35sWVQfvFqQPocw/edit?usp=sharing"
-  target="_blank">読書ログの詳細（googleスライド）</a>
+<a href="https://docs.google.com/presentation/d/1OwcqiXemPd01-0eZrRa48asQI-p_vSh6aYinvncNrxc/edit?usp=sharing" target="_blank">読書ログの詳細（googleスライド）</a>
 
 <h2>環境</h2>
 <li>Docker</li>
